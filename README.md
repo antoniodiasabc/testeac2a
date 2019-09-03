@@ -2,6 +2,6 @@
 # Ferramentas de controle de versão:
 
 * Mercurial
-* GitHub2
+* Git3
 * Subversion
 * CVS
